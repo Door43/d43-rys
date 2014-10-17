@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rys:home|Door43 (rys)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rys|d43-rys repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rys/archive/master.zip|d43-rys.zip]]
+
+**Recent Changes**
+{{changes>ns = rys}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rys|Ethnologue data]]
+
